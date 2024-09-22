@@ -1,0 +1,28 @@
+{
+  "firstName": "Anuj",
+  "middleName": " ",
+  "lastName": "Bhardwaj",
+  "avatar": "\/images\/Anuj.webp",
+  "titles": [
+    "Data scientist",
+    "Software Developer",
+    "Problem Solver"
+  ],
+  "socialNetworks": [
+    {
+      "link": "https://www.linkedin.com/in/anujbhardwaj1996/",
+      "iconName": "faLinkedin",
+      "iconPrefix": "fab"
+    },
+    {
+      "link": "https://github.com//bhardwaj-anuj64",
+      "iconName": "faGithub",
+      "iconPrefix": "fab"
+    },
+    {
+      "link": "mailto:bhardwaj.anuj64@gmail.com",
+      "iconName": "faEnvelope",
+      "iconPrefix": "fas"
+    }
+  ]
+}

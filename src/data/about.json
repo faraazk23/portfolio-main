@@ -1,0 +1,55 @@
+{
+  "username": "Anuj Bhardwaj",
+  "avatar": "../assets/images/avatar-primary-bg.svg",
+  "objective": "<p>I am a Graduate of the University of Florida with experience in Software Development, Machine Learning, Artificial Intelligence, Large language Models and much more.<\/p>",
+  "objectiveNext": "<p>I am looking for full time opportunities starting May 2023 in the field of Software Development. I am creative, flexible and often find myself mastering new technologies relatively quickly. I am open to relocating and remote work as well.<\/p>",
+  "resumeUrl": "#",
+  "skills": [
+    {
+      "name": "Python",
+      "confidence": 90,
+      "color": "rgb(255, 209, 92)"
+    },
+    {
+      "name": "Machine Learnning",
+      "confidence": 80,
+      "color": "rgb(108, 108, 229)"
+    },
+    {
+      "name": "Deep Learning",
+      "confidence": 85,
+      "color": "rgb(255, 76, 96)"
+    },
+    {
+      "name": "SQL",
+      "confidence": 80,
+      "color": "rgb(51, 105, 30)"
+    }
+  ],
+  "statistics": [
+    {
+      "number": 11,
+      "title": "Projects completed",
+      "iconPrefix": "fas",
+      "iconName": "tasks"
+    },
+    {
+      "number": 5,
+      "title": "Certifications",
+      "iconPrefix": "far",
+      "iconName": "newspaper"
+    },
+    {
+      "number": 2,
+      "title": "Awards",
+      "iconPrefix": "fas",
+      "iconName": "award"
+    },
+    {
+      "number": 42876,
+      "title": "Coffee's",
+      "iconPrefix": "fas",
+      "iconName": "ice-cream"
+    }
+  ]
+}
